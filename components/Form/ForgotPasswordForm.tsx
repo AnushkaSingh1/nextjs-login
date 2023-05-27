@@ -25,7 +25,7 @@ const ForgotPasswordForm = () => {
             <AppLogoTitle />
 
             <Form onSubmit={handleSubmit}>
-                <FormTitle> Forgot Password </FormTitle>
+                <FormTitle> Verify Email </FormTitle>
 
                 <InputFeild
                     placeholder={"Email"}
